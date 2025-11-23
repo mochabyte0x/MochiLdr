@@ -12,7 +12,7 @@ MochiLdr is a reflective x64 loader written in C/ASM
     - GetProcAddress
     - GetModuleHandle
 - Support for handling TLS callbacks
-- Support for registern exception handlers
+- Support for registering exception handlers
 - API hashing (jenkins-oaat)
 
 No injector because I want to keep mine private. Just use the one from KaynLdr or make your own.
