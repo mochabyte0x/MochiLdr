@@ -27,6 +27,12 @@ No injector because I want to keep mine private. Just use the one from KaynLdr o
 - kernel32.dll
     - RtlAddFunctionTable
 
+<img width="1779" height="805" alt="image" src="https://github.com/user-attachments/assets/c787e2a0-2e0f-402a-a68b-5fa60c46168b" />
+
+No "MochiLdr.dll" DLL loaded:
+
+<img width="700" height="902" alt="image" src="https://github.com/user-attachments/assets/73cdc8fc-8a6c-4740-9861-c0ea2e6db93c" />
+
 ## Credits
 
 ```
