@@ -7,7 +7,6 @@ MochiLdr is a reflective x64 loader written in C/ASM
 - Erase of DOS Header after new memory allocation
 - Position Independant Code
 - CRT Free
-- Use of direct syscalls
 - Custom implementation of
     - GetProcAddress
     - GetModuleHandle
